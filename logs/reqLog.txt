@@ -3,3 +3,14 @@
 20240613	05:02:22	3d945661-0e31-4cdd-8476-955b0e657a6d	/data/data.json	GET
 20240613	05:02:31	3566ba08-58d2-4216-b73f-ca0198521a5f	/	GET
 20240613	05:02:31	ebd4c3dd-9bf1-4572-b81a-4d2087e54c9a	/css/style.css	GET
+20240615	03:57:22	24cecc52-6bbf-4c07-bd1e-90af568305cd	GET	undefined	/index
+20240615	03:57:22	665a8759-3cb6-4587-b42d-0184d2817f1e	GET	undefined	/css/style.css
+20240615	04:04:36	464dcac1-e8ad-49c1-9849-f10fbd35a35a	GET	undefined	/index
+20240615	04:04:36	e9d607f0-cd39-45ee-86b4-65346f7df613	GET	undefined	/css/style.css
+20240615	04:18:36	d9a2b223-d1bb-44ea-9904-c60a139011e4	GET	undefined	/index
+20240615	04:18:36	86ca3872-4bb1-42f6-9ebe-9b58cd1bfd0e	GET	undefined	/css/style.css
+20240615	04:46:04	459568a7-d523-4b39-9aaf-8dbfa33ae8db	GET	https://www.google.com	/
+20240615	04:49:22	063e1431-3b35-47d1-9f91-d78103f7860a	GET	https://www.google.com	/
+20240615	04:53:03	a2ad810c-8682-44c6-9dbd-8cb2d3317562	GET	undefined	/
+20240615	04:55:35	e327c289-0404-4fc6-a1c5-c9bbecb10f03	GET	undefined	/
+20240615	04:55:35	71e2b79a-2cf1-4bf1-8555-20274254bbcc	GET	undefined	/css/style.css

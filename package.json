@@ -1,7 +1,7 @@
 {
-  "name": "nodejs",
+  "name": "06tut",
   "version": "1.0.0",
-  "description": "",
+  "description": "Express tutorial",
   "main": "server.js",
   "scripts": {
     "start": "node index",
@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "date-fns": "^3.6.0",
+    "express": "^4.19.2",
     "uuid": "^9.0.1"
   },
   "devDependencies": {

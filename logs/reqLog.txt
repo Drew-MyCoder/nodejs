@@ -47,3 +47,14 @@
 20240622	03:55:51	5aa74563-aaf5-476a-9515-7b3ecc7f12ec	POST	undefined	/employees
 20240622	03:56:53	442a7bd8-838b-41b4-94d3-81f77653603c	POST	undefined	/employees
 20240622	03:57:19	1709e672-b0a9-438f-95dc-f5579c94bdb1	POST	undefined	/employees
+20240623	04:08:09	731f18c7-33ee-40c5-976b-adf3ba92e876	GET	undefined	/employees
+20240623	04:08:25	47bcc062-9730-4a9b-b94c-2b2b7c24be99	POST	undefined	/employees
+20240623	04:08:45	851847f6-da62-4754-b123-a94ea0c2873e	PUT	undefined	/employees
+20240623	04:09:15	92624fec-bce1-42ae-ac50-7d084fe2e7e1	PUT	undefined	/employees
+20240623	04:09:27	d57cbaac-b571-4018-b628-4bb6ddc19ee7	DELETE	undefined	/employees
+20240623	04:47:12	334d496e-01ea-4504-9ba3-4880b92106ad	DELETE	undefined	/register
+20240623	04:48:07	cc261f86-4394-4b3c-b85b-81e6c4f21ea6	POST	undefined	/register
+20240623	04:48:29	f1289561-5e1f-400c-98b6-a896baefe855	POST	undefined	/register
+20240623	04:48:41	a36f2642-b94b-4df0-90a2-201d869b9b3b	POST	undefined	/register
+20240623	05:04:02	86e3dc01-8dd4-4d99-8764-a9ffacbe4eaa	POST	undefined	/auth
+20240623	05:04:51	0e608120-6735-46f5-87bf-cbaceeb14848	POST	undefined	/auth

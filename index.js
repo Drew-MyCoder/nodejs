@@ -8,9 +8,14 @@ const PORT = process.env.PORT || 3500;
 const corsOptions = require('./config/corsOptions');
 const verifyJWT = require('./middleware/verifyJWT');
 const cookieParser = require('cookie-parser'); 
+const credentials = require('./middleware/credentials');
 
 // custom middleware
 app.use(logger);
+
+// handle options credentials check - before CORS
+// and fetch cookies credentials requirement
+app.use(credentials);
 
 // cross origin resource sharing
 app.use(cors(corsOptions));
@@ -36,6 +41,7 @@ app.use('/', require('./routes/root'));
 app.use('/register', require('./routes/register'));
 app.use('/auth', require('./routes/auth'));
 app.use('/refresh', require('./routes/refresh'));
+app.use('/logout', require('./routes/logout'));
 
 app.use(verifyJWT);
 app.use('/employees', require('./routes/api/employees'));

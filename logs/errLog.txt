@@ -11,3 +11,6 @@
 20240707	04:41:12	4c180677-ac9a-4ca0-b5b3-1bc4cfd004b1	Error: secretOrPrivateKey must have a value
 20240707	04:41:20	efa8de3d-4c6a-479b-8b1c-afdae04e5f95	Error: secretOrPrivateKey must have a value
 20240707	04:44:46	c7cf84e8-53cc-470a-a7d7-b53cd206294e	Error: secretOrPrivateKey must have a value
+20240707	05:42:08	4b572a0e-e06b-495c-bc96-b1a2efdcc91a	ReferenceError: whitelist is not defined
+20240707	05:42:39	ef95a244-7be6-4c4d-a36d-7d4400ff2e61	ReferenceError: whitelist is not defined
+20240707	05:42:45	95b4714a-e55f-4db3-9b3e-739ce35f85fa	ReferenceError: whitelist is not defined

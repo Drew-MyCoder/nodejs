@@ -14,3 +14,11 @@
 20240707	05:42:08	4b572a0e-e06b-495c-bc96-b1a2efdcc91a	ReferenceError: whitelist is not defined
 20240707	05:42:39	ef95a244-7be6-4c4d-a36d-7d4400ff2e61	ReferenceError: whitelist is not defined
 20240707	05:42:45	95b4714a-e55f-4db3-9b3e-739ce35f85fa	ReferenceError: whitelist is not defined
+20240710	17:31:13	dbe0827f-d62c-4976-9ecb-b1e3ee315bf3	SyntaxError: Unexpected token 'e', "eyJhbGciOi"... is not valid JSON
+20240710	17:31:43	2bcc0590-e6f2-48c1-8adc-d2821999b58a	SyntaxError: Unexpected token 'e', "eyJhbGciOi"... is not valid JSON
+20240710	17:32:20	becae823-d956-46d1-8fb5-ed4203d9945b	SyntaxError: Unexpected token 'e', "eyJhbGciOi"... is not valid JSON
+20240710	17:32:34	7e58f235-d7bb-425c-9b91-726ad91ec852	SyntaxError: Unexpected token 'e', "eyJhbGciOi"... is not valid JSON
+20240710	17:33:10	a01f2cca-59b9-4b33-91c1-1be86646015d	SyntaxError: Unexpected token 'e', "eyJhbGciOi"... is not valid JSON
+20240710	17:34:23	359a5860-18ed-4924-b083-735df19e025e	SyntaxError: Unexpected token 'e', "eyJhbGciOi"... is not valid JSON
+20240710	17:36:30	9d0b9a38-d416-436f-8dab-1eb5cdd7e86a	SyntaxError: Unexpected token 'e', "eyJhbGciOi"... is not valid JSON
+20240905	04:00:28	393346b7-d0a9-41fb-8776-e2569c937c4d	SyntaxError: Unexpected token 'e', "eyJhbGciOi"... is not valid JSON
